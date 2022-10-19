@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "target": "es5",
+    "allowJs": true
+  },
+  "include": [
+    "**/**.ts",
+    "**/**.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "node"
+  ]
+}
